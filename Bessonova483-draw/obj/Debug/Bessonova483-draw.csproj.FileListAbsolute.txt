@@ -1,0 +1,11 @@
+c:\users\mac-12\documents\visual studio 2012\Projects\Bessonova483-draw\Bessonova483-draw\bin\Debug\Bessonova483-draw.exe.config
+F:\мои данные\vs\Bessonova483-draw\Bessonova483-draw\bin\Debug\Bessonova483-draw.exe.config
+F:\мои данные\vs\Bessonova483-draw\Bessonova483-draw\bin\Debug\Bessonova483-draw.exe
+F:\мои данные\vs\Bessonova483-draw\Bessonova483-draw\bin\Debug\Bessonova483-draw.pdb
+F:\мои данные\vs\Bessonova483-draw\Bessonova483-draw\obj\Debug\Bessonova483-draw.csproj.AssemblyReference.cache
+F:\мои данные\vs\Bessonova483-draw\Bessonova483-draw\obj\Debug\Bessonova483_draw.Formdraw.resources
+F:\мои данные\vs\Bessonova483-draw\Bessonova483-draw\obj\Debug\Bessonova483_draw.Properties.Resources.resources
+F:\мои данные\vs\Bessonova483-draw\Bessonova483-draw\obj\Debug\Bessonova483-draw.csproj.GenerateResource.cache
+F:\мои данные\vs\Bessonova483-draw\Bessonova483-draw\obj\Debug\Bessonova483-draw.csproj.CoreCompileInputs.cache
+F:\мои данные\vs\Bessonova483-draw\Bessonova483-draw\obj\Debug\Bessonova483-draw.exe
+F:\мои данные\vs\Bessonova483-draw\Bessonova483-draw\obj\Debug\Bessonova483-draw.pdb
